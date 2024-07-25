@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Lexi, an incoming CS student at the University of Waterloo!
+
+I love math, programming, and problem-solving, and I'm always open to finding new learning opportunities. I'm very interested in learning more about artificial intelligence, web dev, game dev, and software intelligence, amongst other areas of tech!
+
+Feel free to reach out and chat with me any time or send me an email: hanlexi@gmail.com
+
+Pronouns: he/him
+
 <!--
 **lhapollo/lhapollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
