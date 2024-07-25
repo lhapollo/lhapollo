@@ -6,8 +6,6 @@ I love math, programming, and problem-solving, and I'm always open to finding ne
 
 Feel free to reach out and chat with me any time or send me an email: hanlexi@gmail.com
 
-Pronouns: he/him
-
 <!--
 **lhapollo/lhapollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
