@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I'm Lexi, an incoming CS student at the University of Waterloo!
+I'm Lexi, a 2nd year CS student at the University of Waterloo!
 
 I love math, programming, and problem-solving, and I'm always open to finding new learning opportunities. I'm very interested in learning more about artificial intelligence, web dev, game dev, and software engineering, amongst other tech areas!
+
+I recently finished a credit risk data analyst internship at RBC, where I used tools and libraries like Pandas, NumPy, and Streamlit, to build both data visualization and automation tools. 
 
 Feel free to reach out and chat with me any time or send me an email: l67han@uwaterloo.ca
 
